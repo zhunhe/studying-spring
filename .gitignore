@@ -1,2 +1,4 @@
-# Project exclude paths
-/.gradle/
+#.gitignore for IntelliJ plugins
+
+.gradle
+.idea
